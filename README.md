@@ -31,7 +31,6 @@
 ---
 
 ## 📫 Connect with Me
-- GitHub: [@Blanc-byte](https://github.com/Blanc-byte)  
 - Email: leonardogabito00000@gmail.com
 
 ---
