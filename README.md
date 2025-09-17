@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Leonardo Gabito  
 
-<!--
-**Blanc-byte/Blanc-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Instructor at **Davao Oriental State University (DORSU)**  
+💻 Full-stack developer & tech enthusiast  
+📊 Passionate about teaching, coding, and data-driven solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools  
+
+### 🔹 Programming & Scripting
+- **Java**, **JavaFX**, **JavaScript (ES6+), TypeScript**, **PHP**, **Python (Data Analysis)**  
+
+### 🔹 Web Development
+- **HTML5**, **CSS3**, **TailwindCSS**  
+- **Node.js**, **Next.js**, **React Native (Expo)**  
+- **Laravel**, **MySQL**  
+
+### 🔹 Other Expertise
+- Building interactive apps  
+- Data analysis & visualization with Python  
+- Mentoring and guiding students in software development  
+
+---
+
+## 🌱 Current Focus
+- Teaching **future developers** at DORSU  
+- Enhancing expertise in **Next.js** and **data analysis**  
+- Exploring **AI + web integrations** for innovative solutions  
+
+---
+
+## 📫 Connect with Me
+- GitHub: [@Blanc-byte](https://github.com/Blanc-byte)  
+- LinkedIn: 
+- Email: leonardogabito00000@gmail.com
+
+---
+
+✨ *“Code is like teaching — it’s not just about syntax, it’s about shaping ideas into solutions.”*  
